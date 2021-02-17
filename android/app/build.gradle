@@ -55,13 +55,19 @@ android {
         }
     }
     
-    flavorDimensions "app"
+    flavorDimensions "app", "env"
     productFlavors {
         dev {
             dimension "app"
         }
         prod {
             dimension "app"
+        }
+        customer {
+            dimension "env"
+        }
+        admin {
+            dimension "env"
         }
     }
 }
