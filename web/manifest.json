@@ -1,6 +1,6 @@
 {
-    "name": "appcircle_sample_flutter",
-    "short_name": "appcircle_sample_flutter",
+    "name": "appcircle_sample_flutter_google_submit_app",
+    "short_name": "appcircle_sample_flutter_google_submit_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

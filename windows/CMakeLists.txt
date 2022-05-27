@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.14)
-project(appcircle_sample_flutter LANGUAGES CXX)
+project(appcircle_sample_flutter_google_submit_app LANGUAGES CXX)
 
-set(BINARY_NAME "appcircle_sample_flutter")
+set(BINARY_NAME "appcircle_sample_flutter_google_submit_app")
 
 cmake_policy(SET CMP0063 NEW)
 
