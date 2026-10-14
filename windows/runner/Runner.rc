@@ -93,7 +93,7 @@ BEGIN
             VALUE "FileDescription", "dashboard" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
             VALUE "InternalName", "dashboard" "\0"
-            VALUE "LegalCopyright", "Copyright (C) 2022 io.appcircle. All rights reserved." "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2026 io.appcircle. All rights reserved." "\0"
             VALUE "OriginalFilename", "dashboard.exe" "\0"
             VALUE "ProductName", "dashboard" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
